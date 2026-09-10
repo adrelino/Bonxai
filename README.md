@@ -40,6 +40,12 @@ even if conceptually similar:
 **Bonxai** is currently under development and I am building this mostly for fun and for
 educational purposes.
 
+## Architecture
+
+See the [Bonxai architecture guide](doc/architecture.md) for an implementation-level
+description of the sparse hierarchy, masks, coordinate packing, iteration, spatial
+hash, allocator, and relationship to OpenVDB.
+
 # Benchmark (preliminary)
 
 Take these numbers with a grain of salt, since they are preliminary and the benchmark is
